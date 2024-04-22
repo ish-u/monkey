@@ -26,9 +26,9 @@ const (
 	LT = "<"
 	GT = ">"
 
-    EQ = "=="
-  NOT_EQ = "!="
-    
+	EQ     = "=="
+	NOT_EQ = "!="
+
 	// Delimeters
 	COMMA     = ","
 	SEMICOLON = ";"
